@@ -1,6 +1,21 @@
 .summary {
-  background-color: lightblue;
+  background-color: black;
 }
 h5 {
-  color: lightblue;
+  color:blue;
+}
+.title {
+  background-color: lightblue;
+  color: red;
+}
+#jumbotron {
+  background-color: lightblue;
+}
+h2 {
+  color: red;
+  align-items: center;
+  text-align: center;
+}
+#thumbnail {
+  background-color: brown;
 }
