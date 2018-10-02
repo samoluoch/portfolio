@@ -3,6 +3,7 @@
 }
 h5 {
   color:blue;
+  text-align: center;
 }
 .title {
   background-color: lightblue;
@@ -10,12 +11,40 @@ h5 {
 }
 #jumbotron {
   background-color: lightblue;
-}
-h2 {
-  color: red;
-  align-items: center;
-  text-align: center;
+
 }
 #thumbnail {
   background-color: brown;
+}
+h3 {
+  text-align: center;
+  color:white;
+}
+#about-column {
+  background-color:#5a5600;
+  height: 250px;
+  color: white;
+}
+
+#education-column {
+  background-color:#5a5600;
+  height: 250px;
+  color: white;
+}
+#edu{
+  color: white;
+}
+.thumbnail {
+  background-color: lightblue
+}
+#title {
+  background-color:#5a5600;
+  height: 100px;
+  color: white;
+  text-align: center;
+}
+#skills-column {
+  background-color:#5a5600;
+  height: 250px;
+  color: white;
 }
