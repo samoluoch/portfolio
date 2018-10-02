@@ -2,7 +2,7 @@
   background-color: black;
 }
 h5 {
-  color:blue;
+  color:white;
   text-align: center;
 }
 .title {
@@ -35,16 +35,22 @@ h3 {
   color: white;
 }
 .thumbnail {
-  background-color: lightblue
+  background-color:#5a5600;
+  color: white;
 }
 #title {
-  background-color:#5a5600;
+  background-color: #191919;
   height: 100px;
   color: white;
   text-align: center;
 }
 #skills-column {
-  background-color:#5a5600;
+  background-color:#191919;
   height: 250px;
+  color: white;
+}
+#repositories {
+  background-color:#5a5600;
+  height: 500px;
   color: white;
 }
