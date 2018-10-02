@@ -21,13 +21,11 @@ h3 {
   color:white;
 }
 #about-column {
-  background-color:#5a5600;
   height: 250px;
   color: white;
 }
 
 #education-column {
-  background-color:#5a5600;
   height: 250px;
   color: white;
 }
@@ -45,7 +43,6 @@ h3 {
   text-align: center;
 }
 #skills-column {
-  background-color:#191919;
   height: 250px;
   color: white;
 }
@@ -53,4 +50,10 @@ h3 {
   background-color:#5a5600;
   height: 500px;
   color: white;
+}
+#details {
+  background-image: url("../images/giphy.gif"); 
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
