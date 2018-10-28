@@ -54,6 +54,51 @@ h3 {
 #details {
   background-image: url("../images/giphy.gif"); 
   height: 500px;
+  /* width: 500px; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#project1 {
+  background-image: url("../images/Project_1..png"); 
+  height: 400px;
+  width: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#project2 {
+  background-image: url("../images/Project_2.png"); 
+  height: 400px;
+  width: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#project3 {
+  background-image: url("../images/Project_3.png"); 
+  height: 400px;
+  width: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#project4 {
+  background-image: url("../images/Project_4.png"); 
+  height: 400px;
+  width: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#project5 {
+  background-image: url("../images/Project_5.png"); 
+  height: 400px;
+  width: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#project6 {
+  background-image: url("../images/Project_6.png"); 
+  height: 400px;
+  width: 650px;
   background-repeat: no-repeat;
   background-size: cover;
 }
