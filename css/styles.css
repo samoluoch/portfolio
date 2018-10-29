@@ -60,45 +60,57 @@ h3 {
 }
 #project1 {
   background-image: url("../images/Project_1..png"); 
-  height: 400px;
-  width: 650px;
+  height: 480px;
+  width: 930px;
+  margin-top: 0.7%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #project2 {
   background-image: url("../images/Project_2.png"); 
-  height: 400px;
-  width: 650px;
+  height: 480px;
+  width: 930px;
+  margin-top: 0.7%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #project3 {
   background-image: url("../images/Project_3.png"); 
-  height: 400px;
-  width: 650px;
+  height: 480px;
+  width: 930px;
+  margin-top: 0.7%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 #project4 {
   background-image: url("../images/Project_4.png"); 
-  height: 400px;
-  width: 650px;
+  height: 480px;
+  width: 915px;
+  margin-top: 0.7%;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-left: -1.5%;
 }
 #project5 {
   background-image: url("../images/Project_5.png"); 
-  height: 400px;
-  width: 650px;
+  height: 480px;
+  width: 915px;
+  margin-top: 0.7%;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-left: -1.5%;
 }
 #project6 {
   background-image: url("../images/Project_6.png"); 
-  height: 400px;
-  width: 650px;
+  height: 480px;
+  width: 915px;
+  margin-top: 0.7%;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-left: -1.5%;
+}
+.project-description {
+  text-align:center;
 }
