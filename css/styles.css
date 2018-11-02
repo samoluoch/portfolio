@@ -5,10 +5,7 @@ h5 {
   color:white;
   text-align: center;
 }
-.title {
-  background-color: lightblue;
-  color: red;
-}
+
 #jumbotron {
   background-color: lightblue;
 
@@ -21,30 +18,30 @@ h3 {
   color:white;
 }
 #about-column {
-  height: 250px;
-  color: white;
+  height: 450px;
+  color:white;
 }
 
-#education-column {
-  height: 250px;
-  color: white;
-}
-#edu{
-  color: white;
-}
+
 .thumbnail {
   background-color:#5a5600;
   color: white;
+  /* padding-left: 10px; */
 }
 #title {
-  background-color: #191919;
-  height: 100px;
+  background-color: #5a5600;
+  height: 750px;
   color: white;
   text-align: center;
+  background-image: url("../images/bg1.jpeg"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
 }
 #skills-column {
-  height: 250px;
-  color: white;
+  height: 450px;
+  color:white;
 }
 #repositories {
   background-color:#5a5600;
@@ -52,11 +49,13 @@ h3 {
   color: white;
 }
 #details {
-  background-image: url("../images/giphy.gif"); 
-  height: 500px;
+  /* background-image: url("../images/details.jpg");  */
+  /* height: 500px; */
   /* width: 500px; */
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-size: cover;
+  background-attachment: fixed;
+
 }
 #project1 {
   background-image: url("../images/Project_1..png"); 
@@ -113,4 +112,55 @@ h3 {
 }
 .project-description {
   text-align:center;
+}
+
+
+title.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.24);
+  opacity: 0.1;
+  z-index: 1;
+}
+#sam{
+  font-size: 700%;
+  color:white
+  /* opacity:0.7; */
+}
+
+#third-row{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:800px;
+  background-attachment: fixed;
+  background-image: url("../images/bg1.1.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#second-row{
+  background-color: #5a5600;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:800px;
+  opacity:0.8;
+  background-attachment: fixed;
+    /* background-image: url("../images/bg5.jpeg");  */
+
+}
+
+#cont{
+  /* background-image: url("../images/bg1.1.jpg");  */
+  width: 1170px;
+  height:100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color:black;
+  /* background-color: #5a5600; */
+
 }
